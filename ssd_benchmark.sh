@@ -315,5 +315,5 @@ fi
 
 rm "$TARGET/.fiomark.txt" "$TARGET/.fiomark-512k.txt" "$TARGET/.fiomark-4k.txt" 2>/dev/null
 rm "$TARGET/.fiomark.tmp" "$TARGET/.fiomark-512k.tmp" "$TARGET/.fiomark-4k.tmp" 2>/dev/null
-Which will output results like this:
+
 
